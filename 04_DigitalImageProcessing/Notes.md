@@ -10,6 +10,9 @@ Digital image processing is the use of computer algorithms to perform operations
 `Resolution`: The number of pixels in an image.\
 `Color Models`: RGB, grayscale, CMYK, etc.
 
+## Fundamental steps in Digital Image Processing:
+![image](../contents/Fundamental-steps-in-dip.png)
+
 ## Image Acquisition:
 
 `Image Sensors:` CCD and CMOS. \
