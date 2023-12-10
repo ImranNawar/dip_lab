@@ -104,3 +104,8 @@ Machine learning in image processing.
 - Corner detection.
 
 `Object Tracking and Motion Analysis.`
+
+## Affine Transformations
+- It include scaling, translation, rotation, and shearing.
+
+![Image](../contents/Affine_Transformations.png)
