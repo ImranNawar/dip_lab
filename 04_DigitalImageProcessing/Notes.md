@@ -11,7 +11,7 @@ Digital image processing is the use of computer algorithms to perform operations
 `Color Models`: RGB, grayscale, CMYK, etc.
 
 ## Fundamental steps in Digital Image Processing:
-![image](../contents/Fundamental-steps-in-dip.png)
+![image](./Notes_Images/Fundamental-steps-in-dip.png)
 
 ## Image Acquisition:
 
@@ -33,6 +33,10 @@ Sampling and Quantization.
 
 - Fourier Transform.
 - Filtering in frequency domain.
+
+
+#### A model of the image degradation/restoration process.
+![image](./Notes_Images/image_degradation-restoration_process_.png)
 
 ## Image Restoration
 `Noise in Images:`
@@ -108,4 +112,4 @@ Machine learning in image processing.
 ## Affine Transformations
 - It include scaling, translation, rotation, and shearing.
 
-![Image](../contents/Affine_Transformations.png)
+![Image](./Notes_Images/Affine_Transformations.png)
