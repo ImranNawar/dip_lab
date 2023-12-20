@@ -71,6 +71,13 @@ Sampling and Quantization.
 - Gradient-based methods: Sobel, Prewitt.
 - Laplacian of Gaussian (LoG).
 
+#### Image segmetation algorithms
+1. Region Growing
+2. K-Means Clustering
+3. Watershed Algorithm
+4. Graph Cuts
+5. SLIC (Simple Linear Iterative Clustering)
+
 Image segmentation is the most difficult part of digital image processing. The more accurate the segmentation, the more likely the recognition is to be succeed
 
 ## Object Recognition
@@ -94,6 +101,9 @@ Machine learning in image processing.
 - Top-hat and bottom-hat transformations.
 
 ## Color Image Processing
+Color image processing is divided into two major areas: 
+- pseudo- and full-color processing.
+
 `Color Models and Transformations:`
 
 - RGB to HSV.
