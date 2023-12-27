@@ -1,7 +1,34 @@
 /Journey.docx
 /cheatsheets
+/contents
+
+# Books
 /Rafael C. Gonzalez, Richard E. Wods - Digital Image Processing-Pearson (2017).pdf
 /Computer_Vision-Linda_Shapiro.pdf
-/contents
 /linear_algebra.pdf
 /Python Crash Course.pdf
+/Geron A. Hands-On Machine Learning with...3ed 2023.pdf
+
+# The data sets 
+/05_Machine-Learning/Part 1 - Data Preprocessing/Data.csv
+/05_Machine-Learning/Part 2 - Regression/1_Simple Linear Regression/Salary_Data.csv
+/05_Machine-Learning/Part 2 - Regression/2_Multiple Linear Regression/50_Startups.csv
+/05_Machine-Learning/Part 2 - Regression/3_Polynomial Regression/Position_Salaries.csv
+/05_Machine-Learning/Part 2 - Regression/4_Support Vector Regression (SVR)/Position_Salaries.csv
+/05_Machine-Learning/Part 2 - Regression/5_Decision Tree Regression/Position_Salaries.csv
+/05_Machine-Learning/Part 2 - Regression/6_Random Forest Regression/Position_Salaries.csv
+
+/05_Machine-Learning/Part 3 - Classification/1_Logistic Regression/Color Blind Friendly Images
+/05_Machine-Learning/Part 3 - Classification/1_Logistic Regression/Social_Network_Ads.csv
+/05_Machine-Learning/Part 3 - Classification/2_K-Nearest Neighbors (K-NN)/Color Blind Friendly Images
+/05_Machine-Learning/Part 3 - Classification/2_K-Nearest Neighbors (K-NN)/Social_Network_Ads.csv
+/05_Machine-Learning/Part 3 - Classification/3_Support Vector Machine (SVM)/Color Blind Friendly Images
+/05_Machine-Learning/Part 3 - Classification/3_Support Vector Machine (SVM)/Social_Network_Ads.csv
+/05_Machine-Learning/Part 3 - Classification/4_Kernel SVM/Color Blind Friendly Images
+/05_Machine-Learning/Part 3 - Classification/4_Kernel SVM/Social_Network_Ads.csv
+/05_Machine-Learning/Part 3 - Classification/5_Naive Bayes/Color Blind Friendly Images
+/05_Machine-Learning/Part 3 - Classification/5_Naive Bayes/Social_Network_Ads.csv
+/05_Machine-Learning/Part 3 - Classification/6_Decision Tree Classification/Color Blind Friendly Images
+/05_Machine-Learning/Part 3 - Classification/6_Decision Tree Classification/Social_Network_Ads.csv
+/05_Machine-Learning/Part 3 - Classification/7_Random Forest Classification/Color Blind Friendly Images
+/05_Machine-Learning/Part 3 - Classification/7_Random Forest Classification/Social_Network_Ads.csv
