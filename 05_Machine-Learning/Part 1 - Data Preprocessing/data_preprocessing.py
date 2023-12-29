@@ -1,11 +1,9 @@
-# -*- coding: utf-8 -*-
+# Data Preprocessing
 """
 Created on Fri Dec 22 09:32:38 2023
 
 @author: Imran Nawar
 """
-# Data Preprocessing
-
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
