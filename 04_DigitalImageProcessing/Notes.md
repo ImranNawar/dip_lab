@@ -16,7 +16,11 @@ Digital image processing is the use of computer algorithms to perform operations
 ## Image Acquisition:
 
 `Image Sensors:` CCD and CMOS. \
-Sampling and Quantization.
+`Sampling:`
+Digitizing the coordinate value is called sampling.\
+`Quantization:`
+Digitizing the amplitude value is called quantization.
+- In order to use an image for digital Processing we need to first convert from analoge to digital.
 
 ## Image Enhancement
 `Histogram Processing:`
@@ -49,6 +53,17 @@ Sampling and Quantization.
 - Convolution and deconvolution.
 - Wiener filtering.
 
+## Color Image Processing
+Color image processing is divided into two major areas: 
+- pseudo- and full-color processing.
+
+`Color Models and Transformations:`
+
+- RGB to HSV.
+- Color correction.
+
+`Color Image Enhancement and Segmentation.`
+
 ## Image Compression
 `Lossless Compression:`
 
@@ -59,6 +74,15 @@ Sampling and Quantization.
 
 - Transform coding: Discrete Cosine Transform (DCT).
 - JPEG compression.
+
+## Morphological Image Processing
+`Binary Image Operations:`
+
+- Dilation, erosion, opening, and closing.
+
+`Grayscale Image Operations:`
+
+- Top-hat and bottom-hat transformations.
 
 ## Image Segmentation
 `Thresholding:`
@@ -90,26 +114,6 @@ Image segmentation is the most difficult part of digital image processing. The m
 
 Decision boundaries.
 Machine learning in image processing.
-
-## Morphological Image Processing
-`Binary Image Operations:`
-
-- Dilation, erosion, opening, and closing.
-
-`Grayscale Image Operations:`
-
-- Top-hat and bottom-hat transformations.
-
-## Color Image Processing
-Color image processing is divided into two major areas: 
-- pseudo- and full-color processing.
-
-`Color Models and Transformations:`
-
-- RGB to HSV.
-- Color correction.
-
-`Color Image Enhancement and Segmentation.`
 
 ## Image Analysis and Computer Vision
 `Feature Extraction:`
