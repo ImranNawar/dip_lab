@@ -6,7 +6,6 @@ Created on Mon Mar  4 09:24:49 2024
 """
 
 # Python execute code line by line from top
-
 print('Imran Nawar')
 
 # Variable : to temporary store data in computer memory
@@ -100,3 +99,40 @@ elif len(name) > 50:
     print('Name can be a maximum of 50 characters')
 else:
     print('Name looks good')
+    
+# While loop
+i = 1
+while i <= 5:
+    print('*' * i)
+    i = i + 1
+print("Done!")
+
+# For loop
+for item in 'Python':
+    print(item)
+    
+for item in range(10):
+    print(item)
+    
+prices = [10, 20, 30]
+total = 0
+for price in prices:
+    total += price
+print(total)
+
+###
+numbers = [5,2,5,2,2]
+for x_count in numbers:
+    total=''
+    for count in range(x_count):
+        total += 'x'
+    print(total)
+    
+    
+# To find the largest number in a list
+numbers = [3,4,2,6,3,7,8,4]
+max = numbers[0]
+for number in numbers:
+    if number > max:
+        max = number
+print(max)
