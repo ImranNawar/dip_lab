@@ -136,3 +136,45 @@ for number in numbers:
     if number > max:
         max = number
 print(max)
+
+# list methods
+list = [3,2,5,4,3,7]
+print(list.index(5))
+print(7 in list)
+list.sort()
+print(list)
+list.reverse()
+print(list)
+
+# Write a program to remove duplicates in a list
+numbers = [2,3,4,1,2,3,6,7]
+new = []
+numbers.sort()
+for i in range(len(numbers)):
+    if numbers[i] != numbers[i-1]:
+        new.append(numbers[i])
+print(new)
+
+# Another approach
+numbers = [2,3,4,1,2,3,6,7]
+new = []
+
+for number in numbers:
+    if number not in new:
+        new.append(number)
+print(new)        
+
+# Tuples are immutable, we cannot change it
+
+# Unpacking  --- destructuring in javascript
+coordinates = (3,2,4)
+x,y,z = coordinates
+print(x,y,z)
+
+# Dictionaries
+student = {
+    'name': 'Imran',
+    'age': 22,
+    'is_programmaer': True
+}
+print(student['name'])
