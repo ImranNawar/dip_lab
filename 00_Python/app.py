@@ -178,3 +178,98 @@ student = {
     'is_programmaer': True
 }
 print(student['name'])
+
+# Program to convert user input digits to numbers
+dict = {
+        '0': 'zero',
+        '1': 'one',
+        '2': 'two',
+        '3': 'three',
+        '4': 'four',
+}
+
+phone = input('Phone: ')
+output = ""
+
+for ch in phone:
+    output += dict.get(ch) + ' '
+    
+print(output)
+
+# Functions: Functions is a container for a few line of code to perform a specific task
+# Parameters are placeholders defined in a function for recieving information.
+# Arguments are actual pieces of information that are supplied to the function.
+
+def greet_user():
+    print("Welcome! ")
+    print("This is a beautiful day")
+
+print("start")
+greet_user()
+print('finish')
+
+# Return statement
+def square(number):
+    return number * number
+print(square(3))
+
+# None is an object that represent the absence of a value
+
+# Exceptions
+try:
+    age = int(input('Enter the age:  '))
+    income = 20000
+    risk = income/age
+    print(risk)
+except ZeroDivisionError:
+    print('age cannot be zero')
+except ValueError:
+    print("invalid value")
+    
+# Comments
+# Use comments to explain why and how not what
+
+# Use classes to define new types to define model real concepts
+class Point:
+    def __init__(self, x, y):
+        self.x = x
+        self.y = y
+    def move(self):
+        print('Move')
+    
+    def draw(self):
+        print('Draw')
+
+# Object are the instance of the class, class is blueprint, each object is a different instance of class
+point1 = Point(10, 20)
+# point1.x = 10 # attributes
+print(point1.x)
+point1.draw()
+
+# A constructot is a function that gets called at the time of creating an object
+# Self references to the current object, self should be the first parameter of every method
+
+class Person:
+    def __init__(self, name):
+        self.name = name
+    def talk(self):
+        print(f'Hi, I am {self.name}')
+        
+person1 = Person("Imran")
+print(person1.name)
+person1.talk()
+
+# Inheritance
+class Animal:
+    def walk(self):
+        print("walk")
+
+class Dog(Animal):
+    def bark(self):
+        print('Dog bark')
+
+class Cat(Animal):
+    pass
+
+dog1 = Dog()
+dog1.walk()
