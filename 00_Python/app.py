@@ -273,3 +273,35 @@ class Cat(Animal):
 
 dog1 = Dog()
 dog1.walk()
+
+# Packages
+# Generating random values
+import random
+
+for i in range(3):
+    print(random.random())
+    
+for i in range(3):
+    print(random.randint(10,20))
+    
+member = ["Imran", "Wajahat", "Kaleem", "Fawad"]
+leader = random.choice(member)
+print(leader)
+
+# Dice 
+class Dice:
+    def roll(self):
+        first = random.randint(1,6)
+        second = random.randint(1, 6)
+        
+        return first, second
+    
+dice = Dice()
+print(dice.roll())
+
+
+from pathlib import Path
+
+path = Path()
+for file in path.glob('*'):
+    print(file)
