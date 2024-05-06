@@ -1,6 +1,4 @@
 /Journey.docx
-/cheatsheets
-/contents
 
 # Books
 /Rafael C. Gonzalez, Richard E. Wods - Digital Image Processing-Pearson (2017).pdf
@@ -10,7 +8,18 @@
 /Geron A. Hands-On Machine Learning with...3ed 2023.pdf
 /Essential Math for Data Science.pdf
 
+# Research Papers Folder
+/Research_Papers
+
+# Notes
+/cs229-notes
+/6S191_MIT
+/cheatsheets
+machine learning-stanford/
+
 # The data sets 
+/00_Python/ML_with_python/vgsales.csv
+
 /05_Machine-Learning/Part 1 - Data Preprocessing/Data.csv
 /05_Machine-Learning/Part 2 - Regression/1_Simple Linear Regression/Salary_Data.csv
 /05_Machine-Learning/Part 2 - Regression/2_Multiple Linear Regression/50_Startups.csv
@@ -34,8 +43,9 @@
 /05_Machine-Learning/Part 3 - Classification/7_Random Forest Classification/Color Blind Friendly Images
 /05_Machine-Learning/Part 3 - Classification/7_Random Forest Classification/Social_Network_Ads.csv
 
-00_Python/ML_with_python/vgsales.csv
-00_Python/PyShop
-05_Machine-Learning/Machine Learning Specialization/
-machine learning-stanford/
-cs229-notes/
+# Images
+/contents
+
+# Code
+/00_Python/PyShop
+/05_Machine-Learning/Machine Learning Specialization
