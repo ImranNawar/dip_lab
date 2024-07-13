@@ -16,7 +16,7 @@
 /cheatsheets
 machine learning-stanford/
 
-# The data sets 
+# The data sets
 /00_Python/ML_with_python/vgsales.csv
 
 /05_Machine-Learning/Part 1 - Data Preprocessing/Data.csv
@@ -46,7 +46,6 @@ machine learning-stanford/
 /contents
 
 # Code
-/00_Python/PyShop
 /05_Machine-Learning/Machine Learning Specialization
 
 /Projects/RFID_based_door_lock
@@ -54,3 +53,6 @@ machine learning-stanford/
 
 /00_Python/alien_invasion_game/myEnv
 /00_Python/alien_invasion_game/alien-invasion-game
+
+# Presentations
+juniors_presentations/
