@@ -1,0 +1,9 @@
+Complete the task with your own efforts and synergies. 
+After completing the task, you will have to come up with a novel idea while doing the following 
+1. Your idea must be consisted over the gaps found from 10 recent (2021 to 2023) reputed journals articles or conference proceedings
+2. Incorporate the concept of Meta learning and vision-large language models
+3. Prepare attractive and professional framework rendering your idea
+4. Prepare your experimental setup and perform experimental verification and evaluation of your idea
+5. Mention your dataset clearly and your contribution in dataset if any 
+6. Write your 3 to 5 major contributions describing your novelty 
+Once you have completed all the steps mentioned above then draft them in the form of article. You have to submit the first version by next Monday
