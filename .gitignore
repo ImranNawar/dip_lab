@@ -7,14 +7,14 @@
 /Geron A. Hands-On Machine Learning with...3ed 2023.pdf
 /Essential Math for Data Science.pdf
 
-# Research Papers Folder
-/Research_Papers
-
 # Notes
 /cs229-notes
 /6S191_MIT
 /cheatsheets
 machine learning-stanford/
+00_Python/Notes.docx
+09_Robotics/imperial_college_london_lectures
+09_Robotics/stanford_ppt_on_robotics
 
 # The data sets
 /00_Python/ML_with_python/vgsales.csv
@@ -42,6 +42,13 @@ machine learning-stanford/
 /05_Machine-Learning/Part 3 - Classification/7_Random Forest Classification/Color Blind Friendly Images
 /05_Machine-Learning/Part 3 - Classification/7_Random Forest Classification/Social_Network_Ads.csv
 
+# Books and resources in 08_IELTS folder
+/08_IELTS/23435-ielts-sample-papers.zip
+/08_IELTS/IELTS_Band9_VocabSecrets.pdf
+/08_IELTS/The official cambridge guide to ielts- 1st book.pdf
+/08_IELTS/target_band_7_trial_listening_edition4.pdf
+/08_IELTS/MINDSET For IELTS-Foundation.pdf
+
 # Images
 /contents
 
@@ -54,5 +61,18 @@ machine learning-stanford/
 /00_Python/alien_invasion_game/myEnv
 /00_Python/alien_invasion_game/alien-invasion-game
 
+# Temporary Files
+.ipynb_checkpoints
+__pycache__
+
 # Presentations
 juniors_presentations/
+
+# Research Papers
+/Research_Papers/DeepLearning_LeCun.pdf
+/Research_Papers/self_driving_car/an_efficient_and_scalable_simulation_model_irfan.pdf
+/Research_Papers/Videosummarizationbasedtele-endoscopy.pdf
+/Research_Papers/Object permanence in self-driving cars.pdf
+/Research_Papers/Hussain_Medium_Scale_Benchmark_for_Cricket_Excited_Actions_Understanding_CVPRW_2024_paper.pdf
+/Research_Papers/self_driving_car/self_driving_cars_A_survey__experts_systems_with_applications.pdf
+/Research_Papers/about_research_papers.docx
