@@ -1,11 +1,13 @@
 /Journey.docx
 
+DIP_Lab_overview_and_resources.pptx
 # Books
 /Rafael C. Gonzalez, Richard E. Wods - Digital Image Processing-Pearson (2017).pdf
 /Computer_Vision-Linda_Shapiro.pdf
 /Python Crash Course.pdf
 /Geron A. Hands-On Machine Learning with...3ed 2023.pdf
 /Essential Math for Data Science.pdf
+/Modern Computer Vision with Pytorch (V Kishore Ayyadevara, Yeshwanth Reddy) (z-lib.org).pdf
 
 # Notes
 /cs229-notes
@@ -15,6 +17,8 @@ machine learning-stanford/
 00_Python/Notes.docx
 09_Robotics/imperial_college_london_lectures
 09_Robotics/stanford_ppt_on_robotics
+10_PyTorch/pytorch_notes.docx
+
 
 # The data sets
 /00_Python/ML_with_python/vgsales.csv
@@ -48,6 +52,7 @@ machine learning-stanford/
 /08_IELTS/The official cambridge guide to ielts- 1st book.pdf
 /08_IELTS/target_band_7_trial_listening_edition4.pdf
 /08_IELTS/MINDSET For IELTS-Foundation.pdf
+/08_IELTS/resources
 
 # Images
 /contents
@@ -76,3 +81,17 @@ juniors_presentations/
 /Research_Papers/Hussain_Medium_Scale_Benchmark_for_Cricket_Excited_Actions_Understanding_CVPRW_2024_paper.pdf
 /Research_Papers/self_driving_car/self_driving_cars_A_survey__experts_systems_with_applications.pdf
 /Research_Papers/about_research_papers.docx
+
+# Saved Weights
+07_DeepLearning/2_TransferLearning/model_weights/
+07_DeepLearning/1_CNN/model_weights/
+07_DeepLearning/object_detection/yolo_basics/yolov8l.pt
+07_DeepLearning/object_detection/yolo_basics/yolov8n.pt
+07_DeepLearning/classification/data
+
+
+
+# Temporary
+Evaluation/
+09_Robotics/
+Research_Papers/
