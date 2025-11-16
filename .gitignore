@@ -1,6 +1,10 @@
 /Journey.docx
 
+.venv
+
 DIP_Lab_overview_and_resources.pptx
+financial_audit_report_dip_lab.docx
+financial_audit_report_dip_lab.pdf
 # Books
 /Rafael C. Gonzalez, Richard E. Wods - Digital Image Processing-Pearson (2017).pdf
 /Computer_Vision-Linda_Shapiro.pdf
@@ -18,6 +22,10 @@ machine learning-stanford/
 09_Robotics/imperial_college_london_lectures
 09_Robotics/stanford_ppt_on_robotics
 10_PyTorch/pytorch_notes.docx
+12_ComputerVision/computer_vision_basics.docx
+12_ComputerVision/Dynamic Programming and Graph Algorithms in Computer Vision.pdf
+12_ComputerVision/Generative and probability models in image processing and computer vision.pdf
+13_FastAPI/instructions.txt
 
 
 # The data sets
@@ -47,12 +55,14 @@ machine learning-stanford/
 /05_Machine-Learning/Part 3 - Classification/7_Random Forest Classification/Social_Network_Ads.csv
 
 # Books and resources in 08_IELTS folder
-/08_IELTS/23435-ielts-sample-papers.zip
-/08_IELTS/IELTS_Band9_VocabSecrets.pdf
-/08_IELTS/The official cambridge guide to ielts- 1st book.pdf
-/08_IELTS/target_band_7_trial_listening_edition4.pdf
-/08_IELTS/MINDSET For IELTS-Foundation.pdf
 /08_IELTS/resources
+/08_IELTS/PK01525500588-19-04-2025-ETRF.pdf
+/08_IELTS/ielts_preparation.docx
+/08_IELTS/ielts_practice.txt
+/08_IELTS/book_test__7April2025.png
+/08_IELTS/payment.png
+/08_IELTS/way_of_payment.png
+
 
 # Images
 /contents
@@ -72,6 +82,9 @@ __pycache__
 
 # Presentations
 juniors_presentations/
+DIP_LAB_LOGO.jpg
+DIP_LAB_LOGO.pptx
+LOGO_ICP.png
 
 # Research Papers
 /Research_Papers/DeepLearning_LeCun.pdf
@@ -88,6 +101,10 @@ juniors_presentations/
 07_DeepLearning/object_detection/yolo_basics/yolov8l.pt
 07_DeepLearning/object_detection/yolo_basics/yolov8n.pt
 07_DeepLearning/classification/data
+07_DeepLearning/1_CNN/classification_interactive/classification_interactive1.ipynb
+07_DeepLearning/1_CNN/classification_interactive/thumbs_A/
+07_DeepLearning/1_CNN/classification_interactive/thumbs_B/
+07_DeepLearning/Deep Learning Specialization
 
 
 
@@ -95,3 +112,6 @@ juniors_presentations/
 Evaluation/
 09_Robotics/
 Research_Papers/
+11_LLMs/
+prof_khan/
+experience_letters/
