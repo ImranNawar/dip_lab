@@ -5,6 +5,12 @@
 DIP_Lab_overview_and_resources.pptx
 financial_audit_report_dip_lab.docx
 financial_audit_report_dip_lab.pdf
+
+financial_audit_report_dip_lab_2026.pdf
+
+diplab_reimbursement.docx
+diplab_reimbursement.pdf
+
 # Books
 /Rafael C. Gonzalez, Richard E. Wods - Digital Image Processing-Pearson (2017).pdf
 /Computer_Vision-Linda_Shapiro.pdf
@@ -26,6 +32,7 @@ machine learning-stanford/
 12_ComputerVision/Dynamic Programming and Graph Algorithms in Computer Vision.pdf
 12_ComputerVision/Generative and probability models in image processing and computer vision.pdf
 13_FastAPI/instructions.txt
+14_Agents
 
 
 # The data sets
@@ -115,3 +122,7 @@ Research_Papers/
 11_LLMs/
 prof_khan/
 experience_letters/
+bills/
+lab_gpu/
+
+Dr. Amin Ullah LoR.docx
